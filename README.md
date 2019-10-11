@@ -1,6 +1,5 @@
-# [Canadian Human Rights](https://startbootstrap.com/template-overviews/stylish-portfolio/)
-
-[Canadian Human Rights](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+The Canadian Museum for Human Rights through VR [humanrightsVR.ca] 
+The Canadian Museum of Human Rights is committed to the exploration of human rights “with a special but not exclusive reference to Canada.” In maintaining CMHR’s stated mandate as well as extending its reach to a wider community, the Canandian Museum for Human Rights Virtual Reality Team (CMHRVR) team will produce a VR experience that introduces and engages patrons. The project is meaningful before it further immerses patrons into the lived experiences of individuals and communities which inspired exhibitions. The project addresses the need faced by many institutions of how to maintain community engagement, outreach and experience in the 21st century. For Museums to maintain relevance they must embrace technology which refocuses patron attention. VR, is a cutting edge technological tool that will being in patrons across age ranges and backgrounds.The project is designed as as twofold immersive experience. First it is designed as a  pre-vist tool, to introduce, intice and endear the Museums current exhibits to its patrons. The second design is more immersive and takes place once patrons have entered the museum. 
 
 ## Preview
 
