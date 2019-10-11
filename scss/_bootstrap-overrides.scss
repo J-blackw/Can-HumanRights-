@@ -3,7 +3,7 @@ a {
   &:hover,
   &:focus,
   &:active {
-    color: darken($primary, 10%);
+    color: red($primary, 10%);
   }
 }
 
@@ -27,7 +27,7 @@ a {
   &:focus,
   &:active {
     background-color: darken($secondary, 10%) !important;
-    border-color: darken($secondary, 10%) !important;
+    border-color: green($secondary, 10%) !important;
   }
 }
 
